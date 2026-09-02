@@ -1,4 +1,4 @@
-package org.example;
+package org.example.model;
 
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;

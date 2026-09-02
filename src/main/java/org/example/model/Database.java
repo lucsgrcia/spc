@@ -1,4 +1,4 @@
-package org.example;
+package org.example.model;
 
 import java.sql.*;
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
